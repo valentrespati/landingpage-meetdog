@@ -1,1 +1,1 @@
-TinDog Starting Files
+Meet your favorit dog around you
